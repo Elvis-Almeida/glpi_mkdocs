@@ -219,3 +219,17 @@ Nessa tela você pode definir diversos parâmetros ao criar seus tickets como:
 **SLA (Acordo de Nível de Serviço)**
 
 E após preencher todos os campos você clicar em adicionar que seu ticket será adicionado.
+
+## Trocando tema
+
+Caso você ache ruim as cores do sistema você pode alterar facilmente clicando no seu perfil e depois em `Minhas configurações`
+
+![alt text](/glpi/images/perfil.png)
+
+Clique na aba `Personalização` e vá em `Paleta de cores`, aqui você pode escolher qual tema você mais gosta.
+
+![alt text](/glpi/images/trocandoTema.png)
+
+Além disso você pode personalizar o idioma, ordem de exibição de sobrenomes e nomes, resultados a serem exibidos por página, layout da página, alterar a cor de estado e entre outras.
+
+Espero que com isso tenha ajudado a começar usar o glpi.
